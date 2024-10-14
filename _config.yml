@@ -11,9 +11,9 @@ title                    : "David Van Bulck"
 title_separator          : "-"
 name                     : &name "David Van Bulck"
 description              : &description "personal description"
-url                      : "https://davidvanbulck.github.io/"
+url                      : "jovanbulck.github.io/david"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "davidvanbulck/davidvanbulck.github.io"
+repository               : "jovanbulck/david"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
