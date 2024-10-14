@@ -16,7 +16,7 @@ redirect_from:
 # About me
 
 I am a postdoctoral researcher at the Department of Business Informatics and Operations Management at [Ghent University](https://www.ugent.be/en), Belgium.
-My main research interests are in the design an analysis of operations management tools for optimization problems, with a special focus on fairness issues, algorithm benchmarking, and the integration of machine learning within operations management.
+My main research interests are in the design and analysis of operations management tools for optimization problems, with a special focus on fairness issues, algorithm benchmarking, and the integration of machine learning within operations management.
 
 <a name="pubs"></a>
 # Publications
