@@ -1,49 +1,31 @@
-courses:
-  - course: 'Operating Systems'
-    note: 'co-taught with Frank Piessens'
-    years: [2024, 2023]
-    id: [
-            ['G0Q35A', 6 ],
-            ['H04G1B', 3]
-        ]
-    lab: 'https://os.edu.distrinet-research.be/'
-    home: 'https://gitlab.kuleuven.be/distrinet/education/operating-systems/kul-os-homework-student'
+edu:
+  - year: "2024-2021"
+    role: "Lecturer"
+    course: "Quality Management"
+    programme: "Master of Business Engineering"
+    venue: "Ghent University"
+    note: "Co-lecturer/co-titular for approximately 3 out of 6 ECTS points"
+    ects: ["F000899", "https://studiekiezer.ugent.be/2024/studiefiche/en/F000899", 6 ]
 
-guest:
-  - venue: 'COSIC Course on Cryptography and Cyber Security'
-    years: [2024]
+  - year: 2022
+    role: "Visiting Lecturer (10% employment rate)"
+    course: "Operations Research"
+    programme: "Bachelor of Business Engineering"
+    venue: "KU Leuven, Brussels"
+    note: "3 out of 6 ECTS points, 26 teaching hours"
+    ects: [ "B-KUL-HBN68B", "https://onderwijsaanbod.kuleuven.be/2022/syllabi/e/HBN68BN.htm", 6 ] 
 
-  - venue: 'Graz Summer School'
-    years: [2022]
+  - year: 2021
+    role: "Visiting Lecturer (15% employment rate)"
+    course: "Production and Logistics Management"
+    programme: "Bachelor of Business Engineering"
+    venue: "KU Leuven, Brussels"
+    note: "3 out of 6 ECTS points, 26 teaching hours"
+    ects: [ "B-KUL-HBE06E", "https://onderwijsaanbod.kuleuven.be/2021/syllabi/e/HBE06EE.htm", 6 ] 
 
-  - venue: 'KUL Operating Systems'
-    years: [2022, 2021]
-
-  - venue: 'COSIC Hardware Security Course'
-    years: [2019]
-
-  - venue: 'KUL Computer Architecture and System Software'
-    years: [2018]
-
-tutorial:
-  - venue: 'SPACE'
-    year: 2018
-
-  - venue: 'DSN'
-    year: 2018
-
-ta:
-  - course: 'Operating Systems'
-    years: [2023, 2022, 2021]
-
-  - course: 'Computer Architecture and System Software'
-    years: [2020, 2019, 2018]
-
-  - course: 'Structuur en Organisatie van Systeemsoftware'
-    years: [2017, 2016, 2015]
-
-  - course: 'Informatica Werktuigen'
-    years: [2018, 2017, 2016, 2015]
-
-  - course: 'Data Structures and Algorithms'
-    years: [2018, 2017, 2016]
+  - year: "2020-2016"
+    role: "Teaching Assistant"
+    course: "Quality Management"
+    programme: "Master of Business Engineering"
+    venue: "Ghent University"
+    note: "Exercise sessions + discussion forum"

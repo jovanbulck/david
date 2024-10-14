@@ -1,67 +1,16 @@
 chair:
-  - id: 'SysTEX'
-    long-name: 'SysTEX'
+  - id: 'Fairness in Sports Workshop'
+    long-name: '3th Fairness in Sports Workshop'
     eds: [
-            [2024, 'https://systex24.github.io']
-         ]
-  - id: 'FOSDEM'
-    long-name: 'FOSDEM Open-Source Confidential Computing Devroom'
-    ico: 'images/fosdem.ico'
-    eds: [
-            [2024, 'https://fosdem.org/2024/schedule/track/confidential-computing/'],
-            [2023, 'https://archive.fosdem.org/2023/schedule/track/confidential_computing/'],
-            [2022, 'https://archive.fosdem.org/2022/schedule/track/hardware_aided_trusted_computing/'],
-            [2021, 'https://archive.fosdem.org/2021/schedule/track/hardware_aided_trusted_computing/'],
-            [2020, 'https://archive.fosdem.org/2020/schedule/track/hardware_aided_trusted_computing/']
+            [2024, 'https://robinxval.ugent.be/FairnessInSports/'],
          ]
 
 pc:
-  - id: 'USENIX Security'
-    years: [ 2024 ]
+  - id: 'International Conference on the Practice and Theory of Automated Timetabling (PATAT)'
+    years: [ 2024, 2022, 2020 ]
 
-  - id: 'ACM CCS'
-    years: [ 2023, 2022 ]
+journal: '4OR, Annals of Operations Research, Computers & Industrial Engineering, Computers & Operations Research, European Journal of Operational Research, Journal of Scheduling, Operational Research, Operations Research Letters, Sports Engineering, TOP'
 
-  - id: 'DIMVA'
-    years: [ 2023, 2022 ]
+member: 'Belgian OR society (ORBEL), Institute for Operations Research and the Management Sciences (INFORMS), EURO working group OR in Sports, EURO working group on Automated Timetabling (PATAT), EURO working group on Data Science Meets Optimization, COnfiguration and SElection of ALgorithms group (COSEAL), and INFORMS group SpORts'
 
-  - id: 'IEEE SEED'
-    years: [ 2024 ]
-
-  - id: 'SysTEX'
-    years: [ 2023, 2022 ]
-
-  - id: 'PAVeTrust'
-    years: [ 2023, 2022, 2021 ]
-
-journal:
-  - id: 'Computers & Security'
-    years: [ 2022, 2021 ]
-
-  - id: 'ACM Computing Surveys'
-    years: [ 2020 ]
-
-  - id: 'IEEE Transactions on Dependable and Secure Computing'
-    years: [ 2020 ]
-
-  - id: 'IEEE Access'
-    years: [ 2019 ]
-
-sub:
-  - id: 'IEEE S&P'
-    years: [2023, 2021, 2020, 2019, 2017]
-
-  - id: 'ACM CCS'
-    years: [2019, 2018]
-
-  - id: 'USENIX Security'
-    years: [2017]
-
-  - id: 'ESORICS'
-    years: [2017]
-
-  - id: 'POST'
-    years: [2017]
-
-  - id: 'SysTEX'
-    years: [2017]
+inst: 'Member of the Department Council at the Department of Business Informatics and Operations Management of Ghent University'

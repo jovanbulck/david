@@ -39,12 +39,15 @@
 </li>
 <li>
     <span style="font-weight: 500;">Journal Reviewer:</span>
-    {% for c in service.journal %}
-        {{ c.id }} ({{ c.years | join: ", " }})
-        {%- if forloop.last -%}.{%  else -%}, {%  endif -%}
-    {% endfor %}
+    {{ service.journal }}.
 </li>
 <li>
-    <span style="font-weight: 500;">Subreviewer:</span> {% for c in service.sub %} {{ c.id }} ({{ c.years | join: ", " }}){% if forloop.last %}.{% else %}, {% endif %}{% endfor %}
+  <span style="font-weight: 500;">Membership at Scientific Organizations:</span>
+  Member of the  {{ service.member }}.
 </li>
+<li>
+  <span style="font-weight: 500;">Institutional Responsibilities:</span>
+  Member of the  {{ service.inst }}.
+</li>
+
 </ul>

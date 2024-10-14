@@ -23,7 +23,7 @@
             <a class="pub-title" href={% if p.id %}"files/{{p.id}}.pdf"{% else %}"{{p.ext-id}}"{% endif %}>{{p.title}}</a>
         </b>
         <br>
-        {{p.author | join: ', ' | replace:'Jo Van Bulck','<b>Jo Van Bulck</b>' }}
+        {{p.author | join: ', ' | replace:'Van Bulck, D.','<b>Van Bulck, D.</b>' }}
         <br> <em>{{p.venue}}</em>, {% if p.month %}{{p.month}},{% endif %} {{p.year}}.
 
         </div>

@@ -20,9 +20,16 @@
             <div>
                 <a href="{{p.url}}">
                     <button class="ref-btn">
+                        <i class="fas fa-globe-europe" aria-hidden="true" style="color:#3793ae"></i> Website
+                    </button>
+                </a>
+                {% if p.github %}
+                <a href="{{p.github}}">
+                    <button class="ref-btn">
                         <i class="fab fa-github"></i> GitHub
                     </button>
                 </a>
+                {% endif %}
                 {% if p.paper %}
                 <a href="files/{{p.paper}}.pdf">
                     <button class="ref-btn">

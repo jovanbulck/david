@@ -14,9 +14,9 @@
             <i class="fas fa-star" style="color:DimGray;"></i>
             <span style="font-weight: 500;"><a class="pub-title" href="{{p.url}}">{{p.title}}</a></span>
             <span style="font-size:0.9em;">
-                {%if p.for %}<br><em>for {{p.for}}, </em>{% endif %}
+                {%if p.for %}<br><em>{{p.for}}, </em>{% endif %}
                 <br>
-                {%if p.venue %}{{p.venue}}, {% endif %} {{p.month}}, {{p.year}}.
+                {%if p.venue %}{{p.venue}}, {% endif %}{% if p.month %}{{p.month}},{% endif %} {{p.year}}.
             </span>
             <div>
                 <a href="{{p.url}}" class="nounderline">

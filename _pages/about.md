@@ -15,16 +15,18 @@ redirect_from:
 
 # About me
 
-I am a professor in the [DistriNet](https://distrinet.cs.kuleuven.be/) lab at
-the Department of Computer Science of [KU Leuven](https://www.kuleuven.be/english/), Belgium.
-My research explores attacks and defenses at the hardware-software boundary,
-with particular attention to privileged side channels in trusted execution
-environments.
+I am a postdoctoral researcher at the Department of Business Informatics and Operations Management at [Ghent University](https://www.ugent.be/en), Belgium.
+My main research interests are in the design an analysis of operations management tools for optimization problems, with a special focus on fairness issues, algorithm benchmarking, and the integration of machine learning within operations management.
 
 <a name="pubs"></a>
 # Publications
 
 {% include fmt-pub.html %}
+
+<a name="teaching"></a>
+# Teaching
+
+{% include fmt-edu.html %}
 
 <a name="talks"></a>
 # Talks
@@ -32,7 +34,7 @@ environments.
 {% include fmt-talk.html %}
 
 <a name="awards"></a>
-# Awards
+# Awards and Grants
 
 {% include fmt-award.html %}
 
@@ -41,17 +43,7 @@ environments.
 
 {% include fmt-service.html %}
 
-<a name="teaching"></a>
-# Teaching
-
-{% include fmt-edu.html %}
-
-<a name="foss"></a>
-# Selected Open-Source Contributions
+<a name="projects"></a>
+# Selected Community Projects
 
 {% include fmt-foss.html %}
-
-<a name="cve"></a>
-# Vulnerability Disclosures
-
-{% include fmt-cve.html %}
